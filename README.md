@@ -28,11 +28,17 @@ Building consistent habits is key to achieving success and personal development.
 ## ✨ Features
 
 ✅ Add, edit, and delete habits
+
 ✅ Mark habits as complete for each day
+
 ✅ View streaks and completion rates
+
 ✅ Weekly and monthly habit overview
+
 ✅ Notifications or daily reminders to build consistency
+
 ✅ Clean, modern user interface
+
 ✅ Cross-platform support (Android & iOS)
 
 
